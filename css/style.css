@@ -11,17 +11,43 @@ div.logo {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     width: 260px;
-    height: 390px;
+    height: 369px;
     margin-left: auto;
     margin-right: auto;
+	margin-top: 50px;
 }
 
-div.logo-text {
-    color: #ffffff;
+div.coming-soon-text{
+   color: #ffffff;
     width: 625px;
-    height: 50px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Tangerine', serif;
+    font-family: 'Open Sans', sans-serif;
+	font-variant: small-caps;
     font-size: 48px;
+	height: 53px;
+	text-align: center;
 }
+
+div.dot-text {
+    color: #ffffff;
+    width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+	text-align: center;
+	letter-spacing: 20px;
+	height: 68px;
+}
+
+div.team-text {
+    color: #ffffff;
+    width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+	text-align: center;
+}
+
