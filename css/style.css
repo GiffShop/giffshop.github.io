@@ -11,10 +11,10 @@ div.logo {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     width: 260px;
-    height: 369px;
+    height: 350px;
     margin-left: auto;
     margin-right: auto;
-	margin-top: 50px;
+	margin-top: 122px;
 }
 
 div.coming-soon-text{
@@ -23,8 +23,7 @@ div.coming-soon-text{
     margin-left: auto;
     margin-right: auto;
     font-family: 'Open Sans', sans-serif;
-	font-variant: small-caps;
-    font-size: 48px;
+	font-size: 42px;
 	height: 53px;
 	text-align: center;
 }
@@ -47,7 +46,7 @@ div.team-text {
     margin-left: auto;
     margin-right: auto;
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 	text-align: center;
 }
 
