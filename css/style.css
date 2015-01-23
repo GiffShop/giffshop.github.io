@@ -1,0 +1,27 @@
+/**
+* Css for coming soon page
+*/
+
+body {
+    background-image: url("../images/bg-pattern.jpg");
+    background-repeat: repeat;
+}
+
+div.logo {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    width: 260px;
+    height: 390px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.logo-text {
+    color: #ffffff;
+    width: 625px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
